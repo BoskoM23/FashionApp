@@ -41,7 +41,7 @@ Fashion Shop App is an e-commerce website project that I developed :girl:. The b
 + Template: https://colorlib.com
 + Photos: https://unsplash.com/
 # Contact
- <b>Linkedin</b>: [Van Cao](https://www.linkedin.com/in/vancao1999/)
+ <b>Linkedin</b>: (https://www.linkedin.com/in/bosko-marinkovic-3bb23a211/)
  <br/>
- <b>Email</b>: caongochoangvan1999@gmail.com
+ <b>Email</b>: boskomarinkovic233@gmail.com
 
